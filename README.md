@@ -43,7 +43,7 @@ The project is written in Python 3 and uses pygame for the GUI.
 2. Navigate to the `src` directory:
     
     ```bash
-    cd <repo_name>/src
+    cd Solve-n-See-Sudoku/src
     
     ```
     
