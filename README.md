@@ -36,7 +36,7 @@ The project is written in Python 3 and uses pygame for the GUI.
 1. Clone the repo:
     
     ```bash
-    git clone <repo_url>
+    git clone git@github.com:omarmaiteeg/Solve-n-See-Sudoku.git
     
     ```
     
