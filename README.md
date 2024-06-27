@@ -24,7 +24,7 @@
 - **Dynamic Puzzle Generation:** Play endlessly generated puzzles.
 
 <div align="center">
-    <img src="assets/game.gif" alt="Dynamic Sudoku puzzle generation" width ="300" height = ">
+    <img src="assets/game.gif" alt="Dynamic Sudoku puzzle generation" width ="300" height = >
 </div>
 
 - **Puzzle Solver:** Input custom puzzles and use the solver to find solutions or check your answers.
