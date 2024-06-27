@@ -17,14 +17,14 @@
 - **Visualization:** Watch the backtracking algorithm in action, providing a clear view of the solving process.
 
 <div align="center">
-    <img src="assets/solver.gif" alt="Dynamic Sudoku puzzle generation" width ="300" height = "350">
+    <img src="assets/solver.gif" alt="Dynamic Sudoku puzzle generation" width ="300" height = >
 </div>
 
 
 - **Dynamic Puzzle Generation:** Play endlessly generated puzzles.
 
 <div align="center">
-    <img src="assets/game.gif" alt="Dynamic Sudoku puzzle generation" width ="300" height = "350">
+    <img src="assets/game.gif" alt="Dynamic Sudoku puzzle generation" width ="300" height = ">
 </div>
 
 - **Puzzle Solver:** Input custom puzzles and use the solver to find solutions or check your answers.
