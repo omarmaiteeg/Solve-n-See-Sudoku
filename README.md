@@ -21,7 +21,7 @@
 </div>
 
 
-- **Dynamic Puzzle Generation:** Play endlessly generated puzzles.
+- **Dynamic Puzzle Generation:** Play generated puzzles.
 
 <div align="center">
     <img src="assets/game.gif" alt="Dynamic Sudoku puzzle generation" width ="300">
